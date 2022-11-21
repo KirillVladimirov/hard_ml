@@ -6,7 +6,7 @@ from tqdm.auto import tqdm
 
 
 def distance(pointA: np.ndarray, documents: np.ndarray) -> np.ndarray:
-    # допишите ваш код здесь 
+    # допишите ваш код здесь
     pass
 
 
